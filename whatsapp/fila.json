@@ -150,5 +150,61 @@
   "link": "https://s.shopee.com.br/30onQtQlG1",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-ms1jnhcr7r46f3",
   "criado": 1792111855
+ },
+ {
+  "id": "23892669902-1792112506",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "3L Picador De Alimentos Moedor De Carne Mixer Elétrica Processador Cozinha Casa Alho - 110v-220v",
+  "preco": 69.0,
+  "desconto": 57,
+  "nota": 4.8,
+  "vendas": 8239,
+  "link": "https://s.shopee.com.br/5AtI1cUal5",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mmcgl3nag8au55",
+  "destaque": true,
+  "criado": 1792112506
+ },
+ {
+  "id": "23893958562-1792112510",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Escorredor de Louças Rack Aço Carbono Organizador Preto",
+  "preco": 91.9,
+  "desconto": 61,
+  "nota": 4.8,
+  "vendas": 2140,
+  "link": "https://s.shopee.com.br/1gJPrBzVyN",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-moercjnq82df8e",
+  "destaque": false,
+  "criado": 1792112510
+ },
+ {
+  "id": "44915338553-1792112517",
+  "nicho": "pet",
+  "titulo": "🐾 Achado Pet",
+  "nome": "Tapete Higiênico Para Cachorro 50 Unidades 50x60cm Com Gel Absorvente Fralda Manta Pet Cão",
+  "preco": 44.9,
+  "desconto": 36,
+  "nota": 4.9,
+  "vendas": 3492,
+  "link": "https://s.shopee.com.br/2gBx32MAx7",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mrez1cew2oed35",
+  "destaque": true,
+  "criado": 1792112517
+ },
+ {
+  "id": "23193474101-1792112521",
+  "nicho": "pet",
+  "titulo": "🐾 Achado Pet",
+  "nome": "Coleira colar de cordas trançadas ajustável com plaquinha de identificação para cachorro e gato",
+  "preco": 15.0,
+  "desconto": 40,
+  "nota": 5.0,
+  "vendas": 1945,
+  "link": "https://s.shopee.com.br/4qGRd1VWhI",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1jeillccxqp82",
+  "destaque": false,
+  "criado": 1792112521
  }
 ]
