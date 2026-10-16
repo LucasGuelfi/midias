@@ -542,5 +542,61 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260b-mk0wio34eu4l2c",
   "destaque": false,
   "criado": 1792184517
+ },
+ {
+  "id": "58215798752-1792191706",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Triturador Elétrico USB Recarregável Mini Processador 250ml para Alho Carne Legumes e Temperos 3 Lâminas",
+  "preco": 21.88,
+  "desconto": 68,
+  "nota": 4.7,
+  "vendas": 549,
+  "link": "https://s.shopee.com.br/1gJRJpzeZk",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mrlvn560pfraf4",
+  "destaque": true,
+  "criado": 1792191706
+ },
+ {
+  "id": "45764214833-1792191710",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Porta Ovos Plástico 30 Ovos 4 Andares Organizador para Geladeira com Rolagem Automática",
+  "preco": 12.45,
+  "desconto": 57,
+  "nota": 4.6,
+  "vendas": 1379,
+  "link": "https://s.shopee.com.br/30oouI7unJ",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mtg0p6vgn4sg0e",
+  "destaque": false,
+  "criado": 1792191710
+ },
+ {
+  "id": "43663687218-1792191716",
+  "nicho": "pet",
+  "titulo": "🐾 Achado Pet",
+  "nome": "Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda Pet Xixi Cão Pequeno Médio",
+  "preco": 19.96,
+  "desconto": 50,
+  "nota": 4.6,
+  "vendas": 1635,
+  "link": "https://s.shopee.com.br/8KqLG6Ds7h",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-ml8caxgrbjt356",
+  "destaque": true,
+  "criado": 1792191716
+ },
+ {
+  "id": "53602044357-1792191719",
+  "nicho": "pet",
+  "titulo": "🐾 Achado Pet",
+  "nome": "Protetores de ouvido calmantes para cães Sunda, protetores de ouvido à prova d'água e anti-ruído, dispositivo de proteçã",
+  "preco": 22.98,
+  "desconto": 50,
+  "nota": 4.8,
+  "vendas": 702,
+  "link": "https://s.shopee.com.br/qkKKJy5hv",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8227f-mhh9q4bwcsn8ea",
+  "destaque": false,
+  "criado": 1792191719
  }
 ]
