@@ -374,5 +374,61 @@
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zwi-mmri6d1f3o5ka2",
   "destaque": false,
   "criado": 1792162911
+ },
+ {
+  "id": "23393881853-1792170098",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Tesoura Multifuncional Para Corte Alimentos Legumes Peixes Frangos Verdura",
+  "preco": 29.9,
+  "desconto": 70,
+  "nota": 4.8,
+  "vendas": 7442,
+  "link": "https://s.shopee.com.br/6AlqHNLYKp",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mmgtv88q60w65d",
+  "destaque": true,
+  "criado": 1792170098
+ },
+ {
+  "id": "58216667421-1792170102",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Luminária de Mesa LED Nossa Senhora Aparecida com Design 3D em Acrílico 3 Em 1 Luz Noturno",
+  "preco": 19.9,
+  "desconto": 49,
+  "nota": 4.9,
+  "vendas": 1552,
+  "link": "https://s.shopee.com.br/9Kis3CMd2n",
+  "imagem": "https://cf.shopee.com.br/file/br-11134211-820m0-msa6tnh5375ye8",
+  "destaque": false,
+  "criado": 1792170102
+ },
+ {
+  "id": "58200953102-1792170109",
+  "nicho": "pet",
+  "titulo": "🐾 Achado Pet",
+  "nome": "Tapete Higiênico Para Cães 80 X 60 E 60 X 60 Com 30 uni",
+  "preco": 38.8,
+  "desconto": 45,
+  "nota": 4.9,
+  "vendas": 1578,
+  "link": "https://s.shopee.com.br/30ooVZFXIx",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mmhun9u58wlcc0",
+  "destaque": true,
+  "criado": 1792170109
+ },
+ {
+  "id": "22799500311-1792170112",
+  "nicho": "pet",
+  "titulo": "🐾 Achado Pet",
+  "nome": "Casinha de Gato 2 Andares Playground Rampa Arranhador Toca Felino Brinquedo Degrau Casa",
+  "preco": 59.9,
+  "desconto": 25,
+  "nota": 4.9,
+  "vendas": 1181,
+  "link": "https://s.shopee.com.br/qkJvafFIJ",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mp2w6hbug7i9b5",
+  "destaque": false,
+  "criado": 1792170112
  }
 ]
