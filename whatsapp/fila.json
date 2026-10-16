@@ -486,5 +486,61 @@
   "imagem": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mb12nmluvqgp1a",
   "destaque": false,
   "criado": 1792177318
+ },
+ {
+  "id": "23199020709-1792184503",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Cozedor de Ovos Elétrico Portátil Cozinha à Vapor 110V/220V Cores disponíveis （Branco Azul Rosa Amarelo）",
+  "preco": 29.98,
+  "desconto": 70,
+  "nota": 4.9,
+  "vendas": 13355,
+  "link": "https://s.shopee.com.br/Lo3b8r5mZ",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfytb2po8gzk07",
+  "destaque": true,
+  "criado": 1792184503
+ },
+ {
+  "id": "23395023935-1792184507",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Colmeia Organizadora Gavetas Divisórias Organizador de Guarda Roupas Peças Intimas Meias Gaveta",
+  "preco": 12.9,
+  "desconto": 81,
+  "nota": 4.9,
+  "vendas": 2464,
+  "link": "https://s.shopee.com.br/3g4VZGw8g7",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mpgo9t8xnym9c6",
+  "destaque": false,
+  "criado": 1792184507
+ },
+ {
+  "id": "58262383365-1792184513",
+  "nicho": "pet",
+  "titulo": "🐾 Achado Pet",
+  "nome": "Comedouro E Bebedouro Automático 2 Em 1 Elevado Para Cães E Gatos 2200ml+800ml",
+  "preco": 52.99,
+  "desconto": 74,
+  "nota": 4.8,
+  "vendas": 716,
+  "link": "https://s.shopee.com.br/5q909GIYDs",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mplnmfxw4ni979",
+  "destaque": true,
+  "criado": 1792184513
+ },
+ {
+  "id": "22492874485-1792184517",
+  "nicho": "pet",
+  "titulo": "🐾 Achado Pet",
+  "nome": "Arranhador Redondo Para Gato Relax Com Bolinha Miau",
+  "preco": 15.25,
+  "desconto": 47,
+  "nota": 4.9,
+  "vendas": 1530,
+  "link": "https://s.shopee.com.br/9fLiiJHE3Z",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260b-mk0wio34eu4l2c",
+  "destaque": false,
+  "criado": 1792184517
  }
 ]
