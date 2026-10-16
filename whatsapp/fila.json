@@ -206,5 +206,61 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1jeillccxqp82",
   "destaque": false,
   "criado": 1792112521
+ },
+ {
+  "id": "22596095353-1792148505",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Bebedouro Britânia 10L ou 20L Aquaplus Bivolt BBE12P",
+  "preco": 339.9,
+  "desconto": 13,
+  "nota": 4.9,
+  "vendas": 431,
+  "link": "https://s.shopee.com.br/1Lga7mKqB7",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ax-mu8onysojsp534",
+  "destaque": true,
+  "criado": 1792148505
+ },
+ {
+  "id": "23694950975-1792148509",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Organizador De Gaveta 32x32x10cm 24 Divisórias Dobrável Para Peças Intimas Sutiã Meias",
+  "preco": 18.99,
+  "desconto": 35,
+  "nota": 4.9,
+  "vendas": 2449,
+  "link": "https://s.shopee.com.br/1W00K5XKyp",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mny4570pewaq9d",
+  "destaque": false,
+  "criado": 1792148509
+ },
+ {
+  "id": "58264758234-1792148516",
+  "nicho": "pet",
+  "titulo": "🐾 Achado Pet",
+  "nome": "Bebedouro Fonte de Água Automático com Filtro para Gatos e Cachorros 3L",
+  "preco": 56.98,
+  "desconto": 52,
+  "nota": 4.9,
+  "vendas": 1100,
+  "link": "https://s.shopee.com.br/AKbOqKURQG",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mqys32cwtyitf7",
+  "destaque": true,
+  "criado": 1792148516
+ },
+ {
+  "id": "23499025640-1792148519",
+  "nicho": "pet",
+  "titulo": "🐾 Achado Pet",
+  "nome": "Bola Brinquedos com Cauda De Rolamento Automático  Do Falso Recarregável Bola Inteligente Gato Interativo",
+  "preco": 11.88,
+  "desconto": 67,
+  "nota": 4.8,
+  "vendas": 3178,
+  "link": "https://s.shopee.com.br/AKbOqKly7O",
+  "imagem": "https://cf.shopee.com.br/file/br-11134201-820lz-mqy706szhts7bf",
+  "destaque": false,
+  "criado": 1792148519
  }
 ]
