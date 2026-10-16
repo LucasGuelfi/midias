@@ -318,5 +318,61 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjkpuwn342ddd3",
   "destaque": false,
   "criado": 1792155713
+ },
+ {
+  "id": "22399440310-1792162897",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Mini Processador de Alimentos Elétrico Triturador Portátil 3 Lâminas Inox Recarregável Branco",
+  "preco": 22.29,
+  "desconto": 77,
+  "nota": 4.6,
+  "vendas": 2809,
+  "link": "https://s.shopee.com.br/70Kx8fDPC9",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mmkfi6q2ldz8b3",
+  "destaque": true,
+  "criado": 1792162897
+ },
+ {
+  "id": "22398454743-1792162900",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Luminária Solar Poste Rua Refletor Sensor Movimento Com controle 9 Led",
+  "preco": 25.9,
+  "desconto": 52,
+  "nota": 4.7,
+  "vendas": 1822,
+  "link": "https://s.shopee.com.br/BUd06v5OB",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mieoj6c2utqe85",
+  "destaque": false,
+  "criado": 1792162900
+ },
+ {
+  "id": "58265103366-1792162908",
+  "nicho": "pet",
+  "titulo": "🐾 Achado Pet",
+  "nome": "Roupa Pet Soft Bouclê Unissex Mescla PP ao G12 – Conforto e Proteção para Cães e Gatos",
+  "preco": 17.8,
+  "desconto": 11,
+  "nota": 4.8,
+  "vendas": 1806,
+  "link": "https://s.shopee.com.br/1BNABxM4sx",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mr6jz3et2ltyf2",
+  "destaque": true,
+  "criado": 1792162908
+ },
+ {
+  "id": "49308359710-1792162911",
+  "nicho": "pet",
+  "titulo": "🐾 Achado Pet",
+  "nome": "Arranhador Adesivo para Gato Protetor para Sofá e Cama Box Cantos Premium",
+  "preco": 10.77,
+  "desconto": 59,
+  "nota": 4.9,
+  "vendas": 1753,
+  "link": "https://s.shopee.com.br/40hLZAStFJ",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zwi-mmri6d1f3o5ka2",
+  "destaque": false,
+  "criado": 1792162911
  }
 ]
