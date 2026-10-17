@@ -780,5 +780,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mpddr4df5z413b",
   "destaque": true,
   "criado": 1792263714
+ },
+ {
+  "id": "21197690424-1792270893",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "FIX/STARTOOLS Chaleira Jarra Elétrica 110V ou 220V 1.8 Litros Inox Prateada",
+  "preco": 42.99,
+  "desconto": 14,
+  "nota": 4.9,
+  "vendas": 10688,
+  "link": "https://s.shopee.com.br/6Als8k4vQL",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mqfmutp6p53522",
+  "destaque": true,
+  "criado": 1792270893
+ },
+ {
+  "id": "22894053870-1792270900",
+  "nicho": "pet",
+  "titulo": "🐾 Achado Pet",
+  "nome": "Jornal Papel Pet Limpo 2KG, 3KG, 4KG, 5KG, Tapete Pet Biodegradável FOLHAS GRANDES 64 ×58",
+  "preco": 18.8,
+  "desconto": 19,
+  "nota": 4.9,
+  "vendas": 3559,
+  "link": "https://s.shopee.com.br/8fTD7LLo6g",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabnb8ujaoqe6b",
+  "destaque": true,
+  "criado": 1792270900
+ },
+ {
+  "id": "22194066707-1792270906",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "Kit Lâmpada Smart LED RGB WiFi Alexa Google Assistente E27 10W Bivolt Avant Neo 1 a 5 Unidades Inteligente",
+  "preco": 38.9,
+  "desconto": 31,
+  "nota": 4.9,
+  "vendas": 930,
+  "link": "https://s.shopee.com.br/2VsZm19oqD",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-824hg-mpse2xpxngg23e",
+  "destaque": true,
+  "criado": 1792270906
  }
 ]
