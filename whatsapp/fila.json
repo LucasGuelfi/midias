@@ -696,5 +696,47 @@
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mrs4kxqf6txg23",
   "destaque": true,
   "criado": 1792256515
+ },
+ {
+  "id": "20498007503-1792260101",
+  "nicho": "pet",
+  "titulo": "🐾 Achado Pet",
+  "nome": "Aço Inoxidável Fonte para Gatos com Filtro 3.2L Dispensador de água para Cães Bebedouro Gato Automático Super Silencioso",
+  "preco": 115.99,
+  "desconto": 60,
+  "nota": 4.9,
+  "vendas": 300,
+  "link": "https://s.shopee.com.br/3Vl5dAr2ft",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra1e-m59rwtb0098g4e",
+  "destaque": true,
+  "criado": 1792260101
+ },
+ {
+  "id": "21198268414-1792260108",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "BASIKE Carregador Portátil 20000mAh - Carregamento Rápido 22.5W Power Bank Carregador Saída dupla",
+  "preco": 199.99,
+  "desconto": 33,
+  "nota": 5.0,
+  "vendas": 2461,
+  "link": "https://s.shopee.com.br/6fi8XJdjVl",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mst7bfnjndon89",
+  "destaque": true,
+  "criado": 1792260108
+ },
+ {
+  "id": "55811225130-1792260115",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Escorredor de Louças Rack Aço Carbono Organizador Cor Preto",
+  "preco": 79.9,
+  "desconto": 50,
+  "nota": 4.9,
+  "vendas": 1355,
+  "link": "https://s.shopee.com.br/1W02NpWWxb",
+  "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-moqeuv4b9y4s61",
+  "destaque": true,
+  "criado": 1792260115
  }
 ]
