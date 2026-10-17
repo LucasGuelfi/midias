@@ -738,5 +738,47 @@
   "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-moqeuv4b9y4s61",
   "destaque": true,
   "criado": 1792260115
+ },
+ {
+  "id": "22599042883-1792263702",
+  "nicho": "eletronicos",
+  "titulo": "🎧 Achado Eletrônico",
+  "nome": "BASIKE 2026 Carregador Portátil 20000mAh - Carregamento Rápido 22.5W Power Bank Carregador Saída dupla",
+  "preco": 199.99,
+  "desconto": 33,
+  "nota": 4.9,
+  "vendas": 2062,
+  "link": "https://s.shopee.com.br/6fi8bQgJsG",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mst7bfnhmbd1a8",
+  "destaque": true,
+  "criado": 1792263702
+ },
+ {
+  "id": "23794531204-1792263708",
+  "nicho": "casa",
+  "titulo": "🏠 Achado pra Casa",
+  "nome": "Porta Maquiagem Organizador de Cosméticos com Espelho e 2 Gavetas Estilo Clean e Funcional",
+  "preco": 49.9,
+  "desconto": 25,
+  "nota": 4.9,
+  "vendas": 650,
+  "link": "https://s.shopee.com.br/2qVQ2OLRtI",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-82595-mfzibrhxz026dd",
+  "destaque": true,
+  "criado": 1792263708
+ },
+ {
+  "id": "58212387087-1792263714",
+  "nicho": "pet",
+  "titulo": "🐾 Achado Pet",
+  "nome": "Bebedouro Automático Para Gatos com Filtro Fonte de Água Circulante USB Silencioso 1500ML",
+  "preco": 40.99,
+  "desconto": 80,
+  "nota": 4.9,
+  "vendas": 707,
+  "link": "https://s.shopee.com.br/5fpbPbfSYa",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mpddr4df5z413b",
+  "destaque": true,
+  "criado": 1792263714
  }
 ]
